@@ -22,6 +22,8 @@ will list out and highlight the essential steps we have taken to produce the fin
 model.
 # 2. Dataset
 The dataset which we used to train our model is a cleaned up version of
-Shakespeare's works in a .txt file provided by Project Gutenberg, split neatly into
+Shakespeare's works in a .txt file provided by Project Gutenberg (https://www.gutenberg.org/ebooks/100), split neatly into
 training, validation and test sets. In total, the text spans more than one million characters
 and the train-validation-test split is a ratio of 80:10:10.
+
+Before running the code, replace any placeholder file or folder paths with the corresponding paths on your system.
