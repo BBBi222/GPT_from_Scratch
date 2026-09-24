@@ -1,7 +1,7 @@
 # GPT_from_Scratch
 Building gpt from scratch with a Shakespeare dataset
 
-1. Introduction
+# 1. Introduction
 Generative pretrained transformers (GPT) are machine-learning models that are
 trained on large amounts of data and reproduce data in similar yet novel patterns in a
 process called generation. In recent years, GPTs have greatly expanded the horizons in
@@ -20,7 +20,7 @@ form a greater whole, ending up with a GPT model that is capable of generating t
 plausibly resemble something one would find in Shakespeare's writings. In this report, we
 will list out and highlight the essential steps we have taken to produce the final GPT
 model.
-2. Dataset
+# 2. Dataset
 The dataset which we used to train our model is a cleaned up version of
 Shakespeare's works in a .txt file provided by Project Gutenberg, split neatly into
 training, validation and test sets. In total, the text spans more than one million characters
