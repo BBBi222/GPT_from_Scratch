@@ -26,5 +26,6 @@ Shakespeare's works in a .txt file provided by Project Gutenberg (https://www.gu
 training, validation and test sets. In total, the text spans more than one million characters
 and the train-validation-test split is a ratio of 80:10:10.
 
-The notebook was originally created in Google Colab.
+The notebook was created in Google Colab and later uploaded to GitHub as sample code and examples of previous work.
 Before running the code, replace any placeholder file or folder paths with the corresponding paths on your system.
+
